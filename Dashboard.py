@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write("this is my demo")
+st.write("Fertilizers Dash board ")
